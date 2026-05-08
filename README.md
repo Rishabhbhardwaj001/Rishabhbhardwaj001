@@ -56,5 +56,5 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhbhardwaj001@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhbhardwaj001)
+[![Email](https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhbhardwaj001@gmail.com)
